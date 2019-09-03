@@ -1,2 +1,3 @@
 # mfc
-mfc수업
+## mfc class
+## Andong
